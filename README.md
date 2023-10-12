@@ -34,3 +34,9 @@ A live demo of the React Weather App is available at [LINK TO LIVE DEMO](https:/
 
 # License
 This project is licensed under the MIT license.
+
+
+
+
+
+Junaida-hafiz
